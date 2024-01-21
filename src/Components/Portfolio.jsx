@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio-image.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "malik hassan javaid's picture";
 
 /**
  * Project list
@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "UI/UX Designing",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Check out some of my UI/UX projects which includes my experience and design abilities.",
+    url: "https://www.behance.net/hassanmalik8",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Food Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed and implemented an engaging and responsive frontend for a dynamic food website, enhancing user experience with intuitive navigation and visually appealing interfaces",
+    url: "https://github.com/hassan-here/food-website",
   },
 ];
 
